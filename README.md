@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </h2>
 
 <div>
-- 🔭 Em busca do primeiro emprego como front-end
+- 🔭 Ingressando no front-end
 <br>  
 -🌱  Estudando React
 </div>  
