@@ -22,10 +22,13 @@ Here are some ideas to get you started:
   </h2>
 
 <div>
+  Apaixonado pelo universo da tecnologia!
+  <br>
 -🔭 Ingressando no front-end
 <br>  
 -🌱  Estudando React
-Apaixonado pelo universo da tecnologia!
+  <br>
+
 </div>  
 </div>
 <br>
