@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 -🔭 Ingressando no front-end
 <br>  
 -🌱  Estudando React
+Apaixonado pelo universo da tecnologia!
 </div>  
 </div>
 <br>
